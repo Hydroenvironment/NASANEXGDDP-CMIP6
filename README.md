@@ -9,7 +9,7 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 ![Optional Text](https://github.com/Hydroenvironment/CMIP6-WORLDCLIM-HANDLING/blob/master/new%20folder/cmip6%20logo.png)
 # TOOLS FOR NASA NEX GDDP CMIP6 DAILYDATA HANDLING
 
-🌏 TOOLS FOR NASA NEX GDDP CMIP6 DAILYDATA HANDLING
+🌏 Global, high resolution, bias-corrected climate change dataset for climate change impact evaluation
 
 ✅The 2013 IPCC fifth assessment report (AR5) featured climate models from CMIP5, while the upcoming 2021 IPCC sixth assessment report (AR6) will feature new state-of-the-art CMIP6 models.
 
