@@ -11,8 +11,6 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 
 🌏 Global, high resolution, bias-corrected climate change dataset for climate change impact evaluation
 
-✅The 2013 IPCC fifth assessment report (AR5) featured climate models from CMIP5, while the upcoming 2021 IPCC sixth assessment report (AR6) will feature new state-of-the-art CMIP6 models.
-
 ✅CMIP6 will consist of the “runs” from around 100 distinct climate models being produced across 49 different modelling groups. While the results from only around 40 CMIP6 models have been published so far, it is already evident that a number of them have a notably higher climate sensitivity than models in CMIP5
 
 ✅The NASA Earth Exchange (NEX) Global Daily Downscaled Projections (GDDP) dataset, or NEX-GDDP-CMIP6, was created to assist the science community in conducting studies of climate change impacts at local to regional scales and to enhance public understanding of possible future climate patterns at the spatial scale of individual towns, cities, and watersheds
