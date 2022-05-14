@@ -7,7 +7,7 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 [![CMIP6-WORLDCLIM-HANDLING badge](https://img.shields.io/badge/overviewR-ready%20to%20use-brightgreen)](https://github.com/Hydroenvironment/CMIP6-WORLDCLIM-HANDLING/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ![Optional Text](https://github.com/Hydroenvironment/CMIP6-WORLDCLIM-HANDLING/blob/master/new%20folder/cmip6%20logo.png)
-# CMIP6-WORLDCLIM-HANDLING
+# TOOLS FOR NASA NEX GDDP CMIP6 DAILYDATA HANDLING
 
 🌏 TOOLS FOR NASA NEX GDDP CMIP6 DAILYDATA HANDLING
 
