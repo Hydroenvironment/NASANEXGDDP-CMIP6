@@ -52,6 +52,7 @@ shp.wgs <- readOGR(dsn = "D:/RESEARCH/CMIP6/R SCRIPTS CMIP6/NNGDDP_CMIP6_R",
 #First, identify the netCDF files (.nc) located in the folder
 nc_files<-list.files(pattern=".nc")
 #The test shapefile is located in this repository, and at first it has UTM WGS84 projection
+#Then let`s change to lat/lon coordinates
 shp_geo<-spTransform(shp.wgs,CRS("+proj=longlat +datum=WGS84"))
 #Adjusting the coordinates according to the netCDF projection
 shp_geo@coords[,1]<-360+shp_geo@coords[,1]
