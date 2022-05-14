@@ -1,6 +1,6 @@
 ################################################################################
-# STATISTICAL DOWNSCALING OF DAILY CLIMATE DATA USING                          #
-# QUANTILE MAPPING TECHNIQUE FOR CMIP6 DATASETS                                #
+# EXTRACTION OF DAILY DATA FROM                                                #
+# NETCDF FILES OF NASA NEX GDDP CMIP6 PRODUCT                                  #
 ################################################################################
 
 #Author: Julio Montenegro Gambini, M.Sc.,
