@@ -21,8 +21,13 @@ import glob
 import netCDF4
 import xarray as xr
 
+#IMPORTANT!: All the downloaded annual netCDF files will be located in only one folder.
+#Each model, ssp trajectory and variable must have an unique folder.
+
 #Using xarray library to join the files in a loop
 ds = xr.merge([xr.open_dataset(f) for f in glob.glob(r'D:/RESEARCH/CMIP6/R SCRIPTS CMIP6/NNGDDP_CMIP6_R/*.nc')])
 ds.to_netcdf(r'D:/RESEARCH/CMIP6/R SCRIPTS CMIP6/NNGDDP_CMIP6_R/joined_nc.nc')
 #Let`s open to verify the created netCDF file
 ds1 = xr.open_dataset(r'D:/RESEARCH/CMIP6/R SCRIPTS CMIP6/NNGDDP_CMIP6_R/joined_nc.nc')
+
+#Finally, the new file called "joined_nc.nc" will contain all the daily data of the downloaded annual netCDF files.
